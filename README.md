@@ -1,4 +1,4 @@
-# Setuptools plugin for Rust extensions
+# Setuptools plugin for Rust extensions 
 
 [![github actions](https://github.com/PyO3/setuptools-rust/actions/workflows/ci.yml/badge.svg)](https://github.com/PyO3/setuptools-rust/actions/workflows/ci.yml)
 [![pypi package](https://badge.fury.io/py/setuptools-rust.svg)](https://pypi.org/project/setuptools-rust/)
